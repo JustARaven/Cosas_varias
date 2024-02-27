@@ -21,6 +21,7 @@ public class Ejercicio_3 {
             } else {
                 System.out.println("El archivo ya existe.");
             }
+            
             // Conversión
 
 
@@ -40,7 +41,6 @@ public class Ejercicio_3 {
                 existe = archivo.exists();
             }
             System.out.println("El archivo existe.");
-
 
             // Manejo del fichero
 
