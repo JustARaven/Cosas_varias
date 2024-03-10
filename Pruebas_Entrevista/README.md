@@ -1,1 +1,1 @@
-Compendio de pruebas realizadas para las diferentes entevisats.
+Compendio de pruebas realizadas para las diferentes entevistas.
